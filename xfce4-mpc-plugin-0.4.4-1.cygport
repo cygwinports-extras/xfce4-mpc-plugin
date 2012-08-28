@@ -1,0 +1,5 @@
+inherit xfce4
+
+CATEGORY="Xfce"
+SUMMARY="Xfce4 MPD panel plugin"
+DESCRIPTION="This is a simple Music Player Daemon client plugin for the Xfce panel."

@@ -1,5 +1,0 @@
-category: Xfce
-requires: libcairo2 libexo1_0 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libmpd1 libxfce4util6 libxfce4ui1_0 xfce4-panel
-sdesc: "Xfce4 MPD panel plugin"
-ldesc: "This is a simple Music Player Daemon client plugin for the
-Xfce panel."
