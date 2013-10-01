@@ -1,5 +1,8 @@
 inherit xfce4
 
+NAME="xfce4-mpc-plugin"
+VERSION=0.4.4
+RELEASE=1
 CATEGORY="Xfce"
 SUMMARY="Xfce4 MPD panel plugin"
 DESCRIPTION="This is a simple Music Player Daemon client plugin for the Xfce panel."
