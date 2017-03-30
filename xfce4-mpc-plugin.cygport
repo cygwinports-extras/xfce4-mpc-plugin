@@ -1,7 +1,7 @@
 inherit xfce4
 
 NAME="xfce4-mpc-plugin"
-VERSION=0.4.4
+VERSION=0.4.5
 RELEASE=1
 CATEGORY="Xfce"
 SUMMARY="Xfce4 MPD panel plugin"
